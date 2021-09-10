@@ -1,6 +1,7 @@
 ### hi, my name is cindy 👋
 
 I am a senior front-end engineer. I enjoy building functional, efficient, and thoughtfully designed UI's.
+My profile picture is of me eating at a park in Tokyo. 
 
 <!--
 **sceendy/sceendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
